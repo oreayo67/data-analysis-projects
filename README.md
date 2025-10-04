@@ -55,8 +55,8 @@ Excel • SQL • Power BI • Python
 # Contact
 You can reach me here:
 
-- [Email](mailto:oreoluwaayodele67@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/oreoluwa-ayodele)
+- Email: [Email](mailto:oreoluwaayodele67@gmail.com)
+-LiinkedIn: [LinkedIn](https://www.linkedin.com/in/oreoluwa-ayodele-00b794364)
   
 
   
