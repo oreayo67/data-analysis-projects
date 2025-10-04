@@ -52,6 +52,12 @@ My long-term goal is to grow into a professional data analyst and build a strong
 ## Tools & Skills
 Excel • SQL • Power BI • Python
 
-## Contact
-LinkedIn | Email
+# Contact
+You can reach me here:
+
+- Email: [Email](https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com/mail/&service=mail&ec=GBRAFw)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/oreoluwa-ayodele-00b794364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  
+
+
 
