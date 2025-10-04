@@ -74,6 +74,8 @@ Key insights gathered from the dashboard include:
 
 The dashboard helps identify high-value products, improve inventory decisions, and understand customer purchasing trends.
 
+
+
 # Tools & Skills
 • Excel – Data cleaning, analysis, and basic reporting 
 • SQL – Dashboard creation and visual reports 
@@ -85,7 +87,7 @@ You can reach me here:
 
 - Email: [Email](mailto:oreoluwaayodele67@gmail.com)
   
--LiinkedIn: [LinkedIn](https://www.linkedin.com/in/oreoluwa-ayodele-00b794364)
+- LiinkedIn: [LinkedIn](https://www.linkedin.com/in/oreoluwa-ayodele-00b794364)
   
 
   
