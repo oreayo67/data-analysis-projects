@@ -6,26 +6,32 @@ Hi, I'm Ore! I am a junior Data Analyst with hands-on experience using Excel, Po
 
 I have worked on academic and personal projects involving:
 
-Data cleaning and preparation
+* Data cleaning and preparation
 
-Exploratory data analysis
+* Exploratory data analysis
 
-Dashboard development with Power BI and Excel
+* Dashboard development with Power BI and Excel
 
-SQL queries for data extraction and transformation
+* SQL queries for data extraction and transformation
 
-Python-based analysis using libraries like Pandas and NumPy
+* Python-based analysis using libraries like Pandas and NumPy
 
 I am continuously expanding my skills and currently open to:
 
-Internships
+* Internships
 
-Remote data roles
+* Remote data roles
 
-Freelance analytics projects
+* Freelance analytics projects
 
-Collaborative learning opportunities
+* Collaborative learning opportunities
 
 My long-term goal is to grow into a professional data analyst and build a strong portfolio that showcases real-world problem solving, data storytelling, and technical ability.
 
- I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thr
+ My CV in 
+
+ A collection of my data analysis projects using Excel, Power BI, SQL, and Python. I’m using this space to practice, improve my skills, and showcase my work.
+
+# Table of Contents
+
+. [About] (# About)
