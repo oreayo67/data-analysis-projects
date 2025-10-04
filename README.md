@@ -34,4 +34,24 @@ My long-term goal is to grow into a professional data analyst and build a strong
 
 # Table of Contents
 
-. [About] (# About)
+ # Data Analytics Portfolio
+
+## Table of Contents
+- [About](#about)
+- [Porfolio Projects](#projects)
+- [Tools & Skills](#tools--skills)
+- [Contact](#contact)
+
+
+
+# Porfolio Projects
+- [Furniture Sales Dashboard Excel Project](https://1drv.ms/x/c/9d5fdd3caf44e30c/EX30YUx22tRGihJe9cZOlVwB2bClV8pQ1ZLOTeMTd_XnQw?e=be68aF)
+- [Restaurant Dataset Project Power Bi](
+  
+
+## Tools & Skills
+Excel • SQL • Power BI • Python
+
+## Contact
+LinkedIn | Email
+
